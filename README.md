@@ -1,0 +1,1 @@
+# disqus_amp.js
